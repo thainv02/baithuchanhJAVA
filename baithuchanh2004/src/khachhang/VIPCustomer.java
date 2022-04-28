@@ -8,7 +8,7 @@ public class VIPCustomer extends person {
     public String hovaten;
     public float sotiendamua;
 
-    private void nhap() {
+    private void nhap1() {
         System.out.println("nhập hovaten = ");
         Scanner scanner = new Scanner(System.in);
         hovaten = scanner.nextLine();

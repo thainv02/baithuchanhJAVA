@@ -1,6 +1,5 @@
 package sinhvien;
 
-import java.util.Date;
 import java.util.Scanner;
 
 public class student extends person {
