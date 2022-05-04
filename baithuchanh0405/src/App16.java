@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class App {
+public class App16 {
     public static void main(String[] args) throws Exception {
         String a;
         ArrayList<String> arr = new ArrayList<>();
